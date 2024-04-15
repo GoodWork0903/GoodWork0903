@@ -38,13 +38,24 @@ A shape-shifter of solutions, adapting to the needs of each quest and crafting b
 ✨My skill✨
 <br/>
 👌Web Development
+<br/>
 ✔FE: React/Next.js, Vue.js/Nuxt.js, Angular, WordPress, WooCommerce, LearnDash
+<br/>
 ✔BE : NodeJS/NestJS, PHP/Laravel, Django, FastApi, Golang
+<br/>
 ✔Db : MYSQL, Oracle SQL, MSSQL, PostgreSQL, MongoDB, SQLite
+<br/>
 👌Desktop Application
+<br/>
 ✔WPF, MFC, ElectronJS, IMGUI, Avalonia, MAUI
+<br/>
 ✔C/C++, C#/ASP.NET, JavaScript, PyQt, Qt
+<br/>
 👌Artificial Intelligence
+<br/>
 ✔PyTorch, TensorFlow, GANs, VAEs, NLP, OpenCV and LLM
+<br/>
 👌Blockchain Development
+<br/>
 ✔Solidity, Rust, Web3.js, Truffle
+<br/>
